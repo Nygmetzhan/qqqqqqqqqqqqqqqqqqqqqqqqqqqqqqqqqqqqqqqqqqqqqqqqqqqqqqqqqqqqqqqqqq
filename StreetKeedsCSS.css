@@ -1,0 +1,30 @@
+h2{
+	background-color: white;
+	height: 100px;
+	position: center;
+	
+}
+
+#container{
+	display: flex;
+}
+
+img {
+	move-left
+}
+
+    button.new { 
+      background: -moz-linear-gradient(linear, 0 0, 0 50%, from(#000000), to(#C0C0C0)); 
+      background: -webkit-gradient(linear, 0 0, 0 50%, from(#000000), to(#C0C0C0)); 
+      padding: 15px 7px; 
+      color: #333; 
+      -moz-border-radius: 5px; 
+      -webkit-border-radius: 5px; 
+      border-radius: 5px; 
+      border: 1px solid #666; 
+    }
+
+    h1{
+    	background-color: white;
+    	padding: 20px;
+    }
